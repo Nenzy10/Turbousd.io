@@ -187,7 +187,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
 | Security | security@turbousd.io |
 | Development | dev@turbousd.io |
 | Legal | legal@turbousd.io |
-| Telegram | [t.me/turbousd](https://t.me/turbousd) |
+| Telegram | [t.me/turbousd](https://t.me/TurboUSDtron) |
 | Twitter | [@turbousd](https://twitter.com/turbousd) |
 
 ---
