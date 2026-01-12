@@ -22,7 +22,7 @@ Before reaching out, please check our documentation:
 
 ### Telegram
 Join our community for real-time help:
-- **Link**: [t.me/turbousd](https://t.me/turbousd)
+- **Link**: [t.me/turbousd](https://t.me/TurboUSDtron)
 - **Best for**: Quick questions, community discussion
 
 ### Twitter
