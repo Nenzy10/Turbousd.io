@@ -186,6 +186,6 @@ MIT License - see [LICENSE](LICENSE)
 <p align="center">
   <a href="https://turbousd.io">🌐 Website</a> •
   <a href="https://twitter.com/turbousd">𝕏 Twitter</a> •
-  <a href="https://t.me/turbousd">💬 Telegram</a> •
-  <a href="https://github.com/turbousdio">💻 GitHub</a>
+  <a href="https://t.me/TurboUSDtron">💬 Telegram</a> •
+  <a href="https://github.com/Nenzy10/">💻 GitHub</a>
 </p>
